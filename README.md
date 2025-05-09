@@ -1,6 +1,6 @@
 # Unique Browser
 
-A feature-rich web browser built with Python and PyQt5.
+A lightweight and feature-rich web browser built with Python and PyQt5, optimized for Linux.
 
 ## Features
 
@@ -11,7 +11,9 @@ A feature-rich web browser built with Python and PyQt5.
 - Dark mode
 - Private browsing mode
 - Developer tools
-- And more!
+- Optimized for Linux systems
+- Fast and responsive interface
+- Minimal resource usage
 
 ## Requirements
 
@@ -44,6 +46,7 @@ A feature-rich web browser built with Python and PyQt5.
 - Press Ctrl+Shift+P to toggle private browsing mode
 - Press Ctrl+Shift+D to toggle dark mode
 - Press F12 to open developer tools
+- Right-click on links to open in new tabs
 
 ## License
 
